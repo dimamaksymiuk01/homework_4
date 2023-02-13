@@ -1,0 +1,33 @@
+body {
+    background-color: rgb(220, 20, 184);
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+}
+.btn {
+    display: none;
+}
+
+div {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+.btn2 {
+    width: 100px;
+    height: 30px;
+    background-color: green;
+}
+span {
+    background-color: white;
+    color: black;
+    font-size: 20px;
+    width: 120px;
+    text-align: center;
+    border-radius: 10px;
+}
